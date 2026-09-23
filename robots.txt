@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--vpn-if0f107h20ob9a.com/sitemap.xml
